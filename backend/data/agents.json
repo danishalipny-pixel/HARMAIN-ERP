@@ -1,0 +1,44 @@
+[
+  {
+    "id": "AGT-01",
+    "agencyName": "Al-Huda Travel & Tours",
+    "contactPerson": "Qaiser Bilal",
+    "phone": "+92 300 5511223",
+    "email": "info@alhudatravel.pk",
+    "city": "Rawalpindi",
+    "commissionStructure": "Fixed 15,000 PKR per Adult Pilgrim",
+    "totalPilgrimsReferred": 18,
+    "totalCommissionEarnedPKR": 270000,
+    "totalCommissionPaidPKR": 225000,
+    "pendingCommissionPKR": 45000,
+    "status": "Active"
+  },
+  {
+    "id": "AGT-02",
+    "agencyName": "Medina Wings Travel Lahore",
+    "contactPerson": "Sohail Butt",
+    "phone": "+92 321 8844221",
+    "email": "contact@medinawings.com",
+    "city": "Lahore",
+    "commissionStructure": "Fixed 12,000 PKR per Pilgrim",
+    "totalPilgrimsReferred": 24,
+    "totalCommissionEarnedPKR": 288000,
+    "totalCommissionPaidPKR": 288000,
+    "pendingCommissionPKR": 0,
+    "status": "Active"
+  },
+  {
+    "id": "AGT-03",
+    "agencyName": "Barakah Hajj Services Peshawar",
+    "contactPerson": "Haji Gulzar Khan",
+    "phone": "+92 345 9900112",
+    "email": "gulzar@barakahpkr.com",
+    "city": "Peshawar",
+    "commissionStructure": "5% of Net Package Profit",
+    "totalPilgrimsReferred": 12,
+    "totalCommissionEarnedPKR": 310000,
+    "totalCommissionPaidPKR": 250000,
+    "pendingCommissionPKR": 60000,
+    "status": "Active"
+  }
+]

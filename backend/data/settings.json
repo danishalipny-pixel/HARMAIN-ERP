@@ -1,0 +1,43 @@
+[
+  {
+    "id": "settings_main",
+    "agencyName": "HARMAIN ERP",
+    "tagline": "ONE PLATFORM. EVERY JOURNEY.",
+    "productDescription": "Complete Hajj, Umrah & Travel Agency Management System",
+    "dtsLicense": "DTS-ISB-2024-8849",
+    "iataCode": "PK-2749102",
+    "munazzamId": "MNZ-77192",
+    "hajjQuota": 250,
+    "email": "operations@harmainerp.com",
+    "phone": "+92 51 8849200",
+    "whatsapp": "+966 50 123 4567",
+    "address": "Harmain Tower, Blue Area, Islamabad, Pakistan / Al-Siteen St, Makkah Al-Mukarramah, KSA",
+    "baseCurrency": "PKR",
+    "exchangeRates": {
+      "SAR": 74.5,
+      "USD": 278.5,
+      "EUR": 302
+    },
+    "bankAccounts": [
+      {
+        "bankName": "Meezan Bank Ltd",
+        "accountTitle": "Harmain Travel & Tours Pvt Ltd",
+        "accountNumber": "01010108849201",
+        "iban": "PK42MEZN0001010108849201",
+        "branch": "Blue Area Islamabad",
+        "currency": "PKR"
+      },
+      {
+        "bankName": "Al-Rajhi Bank",
+        "accountTitle": "Harmain Umrah Services KSA",
+        "accountNumber": "482001928471",
+        "iban": "SA0380000482001928471000",
+        "branch": "Clock Tower Branch Makkah",
+        "currency": "SAR"
+      }
+    ],
+    "enableNotifications": true,
+    "vatPercentage": 15,
+    "updatedAt": "2026-11-06T14:54:59.944Z"
+  }
+]

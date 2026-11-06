@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <rect width="120" height="120" rx="60" fill="#FDF3E7"/>
+  <!-- Hijab / Abaya in Deep Emerald & Charcoal -->
+  <path d="M60 20 C 44 20, 36 34, 36 54 C 36 78, 48 84, 60 84 C 72 84, 84 78, 84 54 C 84 34, 76 20, 60 20 Z" fill="#0A4D3C"/>
+  <circle cx="60" cy="50" r="16" fill="#F5E4D0"/>
+  <path d="M24 104 C 24 80, 40 76, 60 76 C 80 76, 96 80, 96 104 Z" fill="#0A4D3C"/>
+  <!-- Gold Brocade Pin -->
+  <circle cx="60" cy="74" r="3.5" fill="#D4AF37"/>
+</svg>

@@ -1,0 +1,209 @@
+[
+  {
+    "id": "HRM-BK-2026-0001",
+    "bookingNumber": "BK-2026-0001",
+    "invoiceNumber": "HRM-INV-2026-0001",
+    "bookingDate": "2026-10-22",
+    "travelDate": "2026-11-12",
+    "returnDate": "2026-11-26",
+    "customerName": "Haji Abdul Qayyum",
+    "customerPhone": "+92 300 1122334",
+    "customerEmail": "abdulqayyum@gmail.com",
+    "branchId": "BR-01",
+    "branchName": "Islamabad Head Office",
+    "agentId": null,
+    "agentName": "Direct Walk-in VIP",
+    "packageId": "PKG-UMR-01",
+    "packageName": "Ramadan 2026 - Last 10 Days Itikaf Luxury",
+    "packageType": "Umrah",
+    "paxCount": 2,
+    "passengers": [
+      {
+        "pilgrimId": "HRM-PLG-2026-0001",
+        "name": "Haji Abdul Qayyum",
+        "passport": "BL4920194",
+        "type": "Adult"
+      },
+      {
+        "pilgrimId": "HRM-PLG-2026-0002",
+        "name": "Begum Parveen Akhtar",
+        "passport": "BL8819203",
+        "type": "Adult"
+      }
+    ],
+    "roomType": "Double Sharing (2 Beds)",
+    "makkahHotel": "Fairmont Makkah Clock Royal Tower",
+    "madinahHotel": "The Oberoi Madinah",
+    "pnrCode": "SV79KX",
+    "flightDetails": "Saudia SV-739 (ISB-JED) & SV-738 (JED-ISB)",
+    "assignedVehicle": "GMC Yukon XL Denali 2025",
+    "financials": {
+      "currency": "PKR",
+      "packageSellingPricePerPax": 1150000,
+      "totalSellingPrice": 2300000,
+      "costBreakdown": {
+        "airTicketsCost": 396000,
+        "makkahHotelCost": 670500,
+        "madinahHotelCost": 521500,
+        "saudiTransportCost": 104300,
+        "visaAndInsuranceCost": 56620,
+        "ziyaratAndBuffetCost": 40000,
+        "agentCommissionCost": 0
+      },
+      "totalDirectCost": 1788920,
+      "grossProfitPKR": 511080,
+      "grossProfitMarginPercent": 22.22,
+      "netProfitPKR": 441080,
+      "discountGiven": 0,
+      "taxAmount": 0,
+      "totalPayable": 2300000,
+      "totalPaid": 2300000,
+      "outstandingBalance": 0
+    },
+    "paymentStatus": "Fully Paid",
+    "bookingStatus": "Confirmed & Ready for Departure",
+    "voucherNumber": "HRM-VCH-2026-0001",
+    "voucherIssued": true,
+    "auditNotes": "Created by Travel Consultant Ayesha Siddiqua. Approved by Branch Manager."
+  },
+  {
+    "id": "HRM-BK-2026-0002",
+    "bookingNumber": "BK-2026-0002",
+    "invoiceNumber": "HRM-INV-2026-0002",
+    "bookingDate": "2026-10-28",
+    "travelDate": "2026-11-14",
+    "returnDate": "2026-11-28",
+    "customerName": "Chaudhry Muhammad Aslam",
+    "customerPhone": "+92 333 5152535",
+    "customerEmail": "m.aslam@orienttraders.pk",
+    "branchId": "BR-01",
+    "branchName": "Islamabad Head Office",
+    "agentId": "AGT-01",
+    "agentName": "Al-Huda Travel Rawalpindi",
+    "packageId": "PKG-UMR-02",
+    "packageName": "Premium Family Umrah 14-Day Package",
+    "packageType": "Umrah",
+    "paxCount": 3,
+    "passengers": [
+      {
+        "pilgrimId": "HRM-PLG-2026-0003",
+        "name": "Chaudhry Muhammad Aslam",
+        "passport": "CJ1092849",
+        "type": "Adult"
+      },
+      {
+        "pilgrimId": "HRM-PLG-2026-0004",
+        "name": "Mrs. Kaneez Fatima",
+        "passport": "CJ1092850",
+        "type": "Adult"
+      },
+      {
+        "pilgrimId": "HRM-PLG-2026-0005",
+        "name": "Hamza Aslam",
+        "passport": "CJ1092851",
+        "type": "Adult"
+      }
+    ],
+    "roomType": "Triple Sharing Room",
+    "makkahHotel": "Swissôtel Al Maqam Makkah",
+    "madinahHotel": "Dar Al Taqwa Hotel Madinah",
+    "pnrCode": "PK882J",
+    "flightDetails": "PIA PK-741 (KHI-MED) & PK-742 (JED-KHI)",
+    "assignedVehicle": "Mercedes-Benz VIP Sprinter 2024",
+    "financials": {
+      "currency": "PKR",
+      "packageSellingPricePerPax": 695000,
+      "totalSellingPrice": 2085000,
+      "costBreakdown": {
+        "airTicketsCost": 555000,
+        "makkahHotelCost": 566200,
+        "madinahHotelCost": 409750,
+        "saudiTransportCost": 89400,
+        "visaAndInsuranceCost": 84930,
+        "ziyaratAndBuffetCost": 35000,
+        "agentCommissionCost": 45000
+      },
+      "totalDirectCost": 1785280,
+      "grossProfitPKR": 299720,
+      "grossProfitMarginPercent": 14.37,
+      "netProfitPKR": 254720,
+      "discountGiven": 0,
+      "taxAmount": 0,
+      "totalPayable": 2085000,
+      "totalPaid": 1500000,
+      "outstandingBalance": 585000
+    },
+    "paymentStatus": "Partially Paid (Advance Received)",
+    "bookingStatus": "Confirmed",
+    "voucherNumber": "HRM-VCH-2026-0002",
+    "voucherIssued": true,
+    "auditNotes": "Final balance of 585,000 PKR due before departure 2026-11-10."
+  },
+  {
+    "id": "HRM-BK-2026-0003",
+    "bookingNumber": "BK-2026-0003",
+    "invoiceNumber": "HRM-INV-2026-0003",
+    "bookingDate": "2026-11-02",
+    "travelDate": "2026-11-16",
+    "returnDate": "2026-11-30",
+    "customerName": "Tariq Javed",
+    "customerPhone": "+92 321 9876543",
+    "customerEmail": "tariq.javed@lahorecorp.com",
+    "branchId": "BR-03",
+    "branchName": "Lahore Mall Branch",
+    "agentId": null,
+    "agentName": "Direct Online Portal",
+    "packageId": "PKG-UMR-03",
+    "packageName": "Economy Comfort 15-Day Umrah",
+    "packageType": "Umrah",
+    "paxCount": 2,
+    "passengers": [
+      {
+        "pilgrimId": "HRM-PLG-2026-0006",
+        "name": "Tariq Javed",
+        "passport": "DF7719201",
+        "type": "Adult"
+      },
+      {
+        "pilgrimId": "HRM-PLG-2026-0007",
+        "name": "Bilal Javed",
+        "passport": "DF7719202",
+        "type": "Adult"
+      }
+    ],
+    "roomType": "Quad Room Sharing",
+    "makkahHotel": "Voco Makkah an IHG Hotel",
+    "madinahHotel": "Taiba Front Hotel",
+    "pnrCode": "XY449T",
+    "flightDetails": "Flynas XY-318 (LHE-JED) & XY-319 (JED-LHE)",
+    "assignedVehicle": "SAPTCO VIP Coach",
+    "financials": {
+      "currency": "PKR",
+      "packageSellingPricePerPax": 445000,
+      "totalSellingPrice": 890000,
+      "costBreakdown": {
+        "airTicketsCost": 344000,
+        "makkahHotelCost": 250320,
+        "madinahHotelCost": 178800,
+        "saudiTransportCost": 40000,
+        "visaAndInsuranceCost": 56620,
+        "ziyaratAndBuffetCost": 20000,
+        "agentCommissionCost": 0
+      },
+      "totalDirectCost": 889740,
+      "grossProfitPKR": 100260,
+      "grossProfitMarginPercent": 11.26,
+      "netProfitPKR": 75260,
+      "discountGiven": 0,
+      "taxAmount": 0,
+      "totalPayable": 890000,
+      "totalPaid": 450000,
+      "outstandingBalance": 440000
+    },
+    "paymentStatus": "Partially Paid",
+    "bookingStatus": "Visa In-Progress",
+    "voucherNumber": "",
+    "voucherIssued": false,
+    "auditNotes": "Pending visa issuance and final payment."
+  }
+]

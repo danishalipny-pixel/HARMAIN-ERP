@@ -1,0 +1,72 @@
+[
+  {
+    "id": "SUP-01",
+    "name": "Saudi Arabian Airlines (Saudia Consolidator)",
+    "category": "Airlines",
+    "contactPerson": "Mr. Khalid Mansour",
+    "phone": "+966 12 686 0000",
+    "email": "corporate@saudia.com",
+    "country": "Saudi Arabia",
+    "totalOrdersPKR": 8950000,
+    "totalPaidPKR": 8554000,
+    "balancePayablePKR": 396000,
+    "paymentTerms": "Credit 14 Days",
+    "status": "Active"
+  },
+  {
+    "id": "SUP-02",
+    "name": "Fairmont Makkah Clock Royal Tower",
+    "category": "Hotels Makkah",
+    "contactPerson": "Adel Al-Ghamdi",
+    "phone": "+966 12 571 7777",
+    "email": "makkah.groups@fairmont.com",
+    "country": "Saudi Arabia",
+    "totalOrdersPKR": 12400000,
+    "totalPaidPKR": 12400000,
+    "balancePayablePKR": 0,
+    "paymentTerms": "Advance 100% Before Check-in",
+    "status": "Active"
+  },
+  {
+    "id": "SUP-03",
+    "name": "The Oberoi Madinah Hotel",
+    "category": "Hotels Madinah",
+    "contactPerson": "Khurram Shehzad",
+    "phone": "+966 14 828 2222",
+    "email": "reservations.med@oberoihotels.com",
+    "country": "Saudi Arabia",
+    "totalOrdersPKR": 7800000,
+    "totalPaidPKR": 7278500,
+    "balancePayablePKR": 521500,
+    "paymentTerms": "50% Advance, 50% on Arrival",
+    "status": "Active"
+  },
+  {
+    "id": "SUP-04",
+    "name": "Al-Jazeera & SAPTCO VIP Transport Fleet",
+    "category": "Transportation",
+    "contactPerson": "Faisal Al-Zahrani",
+    "phone": "+966 50 889 1234",
+    "email": "fleet@aljazeeratransport.sa",
+    "country": "Saudi Arabia",
+    "totalOrdersPKR": 2450000,
+    "totalPaidPKR": 2150000,
+    "balancePayablePKR": 300000,
+    "paymentTerms": "Weekly Settlement",
+    "status": "Active"
+  },
+  {
+    "id": "SUP-05",
+    "name": "Al-Wafaa Saudi Visa Services (Munazzam Registered)",
+    "category": "Visa Agency",
+    "contactPerson": "Sheikh Mohsin Al-Bishri",
+    "phone": "+966 55 120 4910",
+    "email": "visas@alwafaa-ksa.com",
+    "country": "Saudi Arabia",
+    "totalOrdersPKR": 1150000,
+    "totalPaidPKR": 1150000,
+    "balancePayablePKR": 0,
+    "paymentTerms": "Instant Prepaid Balance",
+    "status": "Active"
+  }
+]

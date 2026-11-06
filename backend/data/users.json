@@ -1,0 +1,95 @@
+[
+  {
+    "id": "USR-01",
+    "name": "Dr. Tariq Al-Harmain",
+    "email": "admin@harmain.com",
+    "passwordHash": "$2b$10$23WZasGzNt0iuAJbN2yokOZ4VI7elEsfD8YmHF4kzLLlvDJiZWPsi",
+    "role": "Super Admin",
+    "branchId": "BR-01",
+    "phone": "+92 300 8501234",
+    "status": "Active",
+    "permissions": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "USR-02",
+    "name": "Muhammad Usman Tariq",
+    "email": "manager@harmain.com",
+    "passwordHash": "$2b$10$LSuaXLgveGbltl/FKwcs0e6VpMrAou5G2AZbr7eseSsX6fTUVd6su",
+    "role": "Branch Manager",
+    "branchId": "BR-01",
+    "phone": "+92 300 8505678",
+    "status": "Active",
+    "permissions": [
+      "BOOKINGS",
+      "PILGRIMS",
+      "FINANCE",
+      "REPORTS",
+      "OPERATIONS"
+    ]
+  },
+  {
+    "id": "USR-03",
+    "name": "Ayesha Siddiqua",
+    "email": "consultant@harmain.com",
+    "passwordHash": "$2b$10$LSuaXLgveGbltl/FKwcs0e6VpMrAou5G2AZbr7eseSsX6fTUVd6su",
+    "role": "Travel Consultant",
+    "branchId": "BR-01",
+    "phone": "+92 321 4455667",
+    "status": "Active",
+    "permissions": [
+      "BOOKINGS",
+      "PILGRIMS",
+      "PACKAGES",
+      "FLIGHTS",
+      "DOCUMENTS"
+    ]
+  },
+  {
+    "id": "USR-04",
+    "name": "Zubair Ahmed Qureshi",
+    "email": "visa@harmain.com",
+    "passwordHash": "$2b$10$LSuaXLgveGbltl/FKwcs0e6VpMrAou5G2AZbr7eseSsX6fTUVd6su",
+    "role": "Visa Officer",
+    "branchId": "BR-01",
+    "phone": "+92 333 9988776",
+    "status": "Active",
+    "permissions": [
+      "VISAS",
+      "PILGRIMS",
+      "DOCUMENTS"
+    ]
+  },
+  {
+    "id": "USR-05",
+    "name": "Rashid Mehmood, ACMA",
+    "email": "finance@harmain.com",
+    "passwordHash": "$2b$10$LSuaXLgveGbltl/FKwcs0e6VpMrAou5G2AZbr7eseSsX6fTUVd6su",
+    "role": "Accountant",
+    "branchId": "BR-01",
+    "phone": "+92 345 5566778",
+    "status": "Active",
+    "permissions": [
+      "FINANCE",
+      "ACCOUNTS",
+      "PAYMENTS",
+      "EXPENSES",
+      "SUPPLIERS",
+      "REPORTS"
+    ]
+  },
+  {
+    "id": "USR-06",
+    "name": "Haji Abdul Qayyum",
+    "email": "pilgrim@harmain.com",
+    "passwordHash": "$2b$10$LSuaXLgveGbltl/FKwcs0e6VpMrAou5G2AZbr7eseSsX6fTUVd6su",
+    "role": "Customer",
+    "branchId": "BR-01",
+    "phone": "+92 300 1122334",
+    "status": "Active",
+    "permissions": [
+      "PORTAL"
+    ]
+  }
+]

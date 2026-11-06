@@ -1,0 +1,583 @@
+[
+  {
+    "id": "HTL-MAK-01",
+    "name": "Fairmont Makkah Clock Royal Tower",
+    "city": "Makkah",
+    "starRating": 5,
+    "courtyardDistanceMeters": 0,
+    "locationDescription": "Abraj Al Bait Complex, Directly in front of King Abdulaziz Gate",
+    "contactPerson": "Adel Al-Ghamdi (Director of Sales)",
+    "phone": "+966 12 571 7777",
+    "email": "makkah.reservations@fairmont.com",
+    "contractType": "Corporate Master Allotment",
+    "totalContractedRooms": 45,
+    "allocatedRooms": 38,
+    "coverImage": "https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?w=1200&q=80",
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?w=1200&q=80",
+        "category": "Views",
+        "title": "Holy Kaaba & Mataf Courtyard View",
+        "description": "Panoramic view of the Holy Kaaba and Mataf courtyard directly from suite windows."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1564769625905-50e93615e769?w=1200&q=80",
+        "category": "Exterior",
+        "title": "Makkah Clock Royal Tower Facade",
+        "description": "Iconic Clock Royal Tower soaring 601 meters above the Holy Haram."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=1200&q=80",
+        "category": "Lobby",
+        "title": "Grand Royal Reception & Lounge",
+        "description": "Opulent marble entrance, dedicated group concierge, and complimentary chilled Zamzam fountain."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=1200&q=80",
+        "category": "Bedrooms",
+        "title": "Presidential Kaaba View Suite",
+        "description": "Plush king-sized bed with automated blackout curtains and live Haram prayer audio."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1590490360182-c33d57733427?w=1200&q=80",
+        "category": "Bedrooms",
+        "title": "Deluxe Haram View Double Room",
+        "description": "Contemporary Arabian luxury double bedroom with direct Haram courtyard sightlines."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1595576508898-0ad5c879a061?w=1200&q=80",
+        "category": "Bedrooms",
+        "title": "Executive Twin Bedroom",
+        "description": "Two orthopedic single beds, work desk, and high-speed Wi-Fi."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=1200&q=80",
+        "category": "Bathrooms",
+        "title": "Italian Marble Bath & Soaking Tub",
+        "description": "Deep soaking bathtub, separate glass rainfall shower, and luxury aromatherapy bath amenities."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=1200&q=80",
+        "category": "Facilities",
+        "title": "Al Dira International Buffet Restaurant",
+        "description": "Extensive multi-cuisine dining serving Suhoor, Iftar, and international breakfast buffets."
+      }
+    ],
+    "roomCategories": [
+      {
+        "name": "Presidential Kaaba View Suite",
+        "capacity": 2,
+        "bedType": "1 King Bed",
+        "view": "Direct Holy Kaaba View",
+        "rateSAR": 2200,
+        "image": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=800&q=80"
+      },
+      {
+        "name": "Deluxe Haram View Double",
+        "capacity": 2,
+        "bedType": "2 Single / 1 Double",
+        "view": "Grand Mosque Courtyard",
+        "rateSAR": 1600,
+        "image": "https://images.unsplash.com/photo-1590490360182-c33d57733427?w=800&q=80"
+      },
+      {
+        "name": "Signature Twin Room",
+        "capacity": 2,
+        "bedType": "2 Single Beds",
+        "view": "City / Complex View",
+        "rateSAR": 1200,
+        "image": "https://images.unsplash.com/photo-1595576508898-0ad5c879a061?w=800&q=80"
+      },
+      {
+        "name": "Family Quad Suite",
+        "capacity": 4,
+        "bedType": "4 Single Beds",
+        "view": "Courtyard Partial View",
+        "rateSAR": 2800,
+        "image": "https://images.unsplash.com/photo-1566665797739-1674de7a421a?w=800&q=80"
+      }
+    ],
+    "amenities": [
+      "Direct Haram Courtyard Access",
+      "Kaaba View Suites",
+      "9 International Restaurants",
+      "Complimentary Zamzam",
+      "Dedicated Group Check-in Lounge",
+      "Wheelchair Assistance"
+    ],
+    "rates": {
+      "standardSAR": 1200,
+      "haramViewSAR": 1600,
+      "kaabaViewSAR": 2200,
+      "ramadanSAR": 3800
+    },
+    "status": "Active"
+  },
+  {
+    "id": "HTL-MAK-02",
+    "name": "Swissôtel Al Maqam Makkah",
+    "city": "Makkah",
+    "starRating": 5,
+    "courtyardDistanceMeters": 0,
+    "locationDescription": "King Abdul Aziz Endowment, Ibrahim Al Khalil St",
+    "contactPerson": "Sami Bin Qasim",
+    "phone": "+966 12 577 5555",
+    "email": "reservations.almaqam@swissotel.com",
+    "contractType": "Guaranteed Block Allotment",
+    "totalContractedRooms": 50,
+    "allocatedRooms": 42,
+    "coverImage": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=1200&q=80",
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=1200&q=80",
+        "category": "Exterior",
+        "title": "Swissôtel Tower Grand Facade",
+        "description": "Prominent facade overlooking the Ibrahim Al Khalil Street entrance to the Grand Mosque."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=1200&q=80",
+        "category": "Lobby",
+        "title": "Modern Swiss-Arabian Lobby",
+        "description": "Spacious reception lounge with express check-in kiosks and Arabian welcome hospitality."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1590490360182-c33d57733427?w=1200&q=80",
+        "category": "Bedrooms",
+        "title": "Classic King Haram View Room",
+        "description": "Elegantly furnished king room with warm timber tones and courtyard sightlines."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1566665797739-1674de7a421a?w=1200&q=80",
+        "category": "Bedrooms",
+        "title": "Family Quad Room (4 Single Beds)",
+        "description": "Ideal for family pilgrim groups, featuring 4 comfortable single beds."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?w=1200&q=80",
+        "category": "Bathrooms",
+        "title": "Contemporary Glass Rain Shower",
+        "description": "Walk-in rainfall shower, marble washbasin, and lighted magnifying vanity mirror."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?w=1200&q=80",
+        "category": "Views",
+        "title": "Direct Sight of Grand Mosque",
+        "description": "Direct elevated view over the courtyard and minarets of Masjid al-Haram."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=1200&q=80",
+        "category": "Facilities",
+        "title": "Al-Khairat International Buffet",
+        "description": "Grand dining hall catering to up to 2,000 guests with live cooking stations."
+      }
+    ],
+    "roomCategories": [
+      {
+        "name": "Classic King Haram View",
+        "capacity": 2,
+        "bedType": "1 King Bed",
+        "view": "Haram View",
+        "rateSAR": 1350,
+        "image": "https://images.unsplash.com/photo-1590490360182-c33d57733427?w=800&q=80"
+      },
+      {
+        "name": "Deluxe Twin Room",
+        "capacity": 2,
+        "bedType": "2 Single Beds",
+        "view": "Courtyard View",
+        "rateSAR": 950,
+        "image": "https://images.unsplash.com/photo-1595576508898-0ad5c879a061?w=800&q=80"
+      },
+      {
+        "name": "Family Quad Room",
+        "capacity": 4,
+        "bedType": "4 Single Beds",
+        "view": "City / Complex",
+        "rateSAR": 1800,
+        "image": "https://images.unsplash.com/photo-1566665797739-1674de7a421a?w=800&q=80"
+      }
+    ],
+    "amenities": [
+      "Direct Mall & Courtyard Access",
+      "Al-Khairat Buffet",
+      "High Speed WiFi",
+      "24h Room Service"
+    ],
+    "rates": {
+      "standardSAR": 950,
+      "haramViewSAR": 1350,
+      "kaabaViewSAR": 1800,
+      "ramadanSAR": 3200
+    },
+    "status": "Active"
+  },
+  {
+    "id": "HTL-MAK-03",
+    "name": "Voco Makkah an IHG Hotel",
+    "city": "Makkah",
+    "starRating": 4,
+    "courtyardDistanceMeters": 1200,
+    "locationDescription": "At Taqwa Street, Kudai, Makkah",
+    "contactPerson": "Fahad Al-Harbi",
+    "phone": "+966 12 526 8888",
+    "email": "info.vocoomakkah@ihg.com",
+    "contractType": "Seasonal Fixed Rate",
+    "totalContractedRooms": 80,
+    "allocatedRooms": 65,
+    "coverImage": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=1200&q=80",
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=1200&q=80",
+        "category": "Exterior",
+        "title": "Voco Modern Towers Architecture",
+        "description": "Expansive modern hotel property in Kudai with dedicated private bus bays."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=1200&q=80",
+        "category": "Lobby",
+        "title": "Vibrant Lobby & Shuttle Departure Hub",
+        "description": "24/7 lobby lounge with quick check-in desks and direct boarding for Haram buses."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?w=1200&q=80",
+        "category": "Bedrooms",
+        "title": "Superior Modern Double Bedroom",
+        "description": "Fresh, colorful, soundproof bedroom featuring ergonomic bedding and coffee station."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1566665797739-1674de7a421a?w=1200&q=80",
+        "category": "Bedrooms",
+        "title": "Comfort Triple & Quad Room",
+        "description": "High-capacity room configuration designed specifically for budget-conscious Umrah groups."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1620626011761-996317b8d101?w=1200&q=80",
+        "category": "Bathrooms",
+        "title": "Modern Ensuite Shower",
+        "description": "Functional tiled bathroom with pressure shower and eco-friendly toiletries."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=1200&q=80",
+        "category": "Facilities",
+        "title": "Large Dining Hall & 24/7 Shuttle Terminal",
+        "description": "Dedicated buses depart every 5 minutes directly to Kudai Gate of Masjid al-Haram."
+      }
+    ],
+    "roomCategories": [
+      {
+        "name": "Superior Double Room",
+        "capacity": 2,
+        "bedType": "2 Single / 1 Double",
+        "view": "City View",
+        "rateSAR": 420,
+        "image": "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?w=800&q=80"
+      },
+      {
+        "name": "Triple Sharing Room",
+        "capacity": 3,
+        "bedType": "3 Single Beds",
+        "view": "City View",
+        "rateSAR": 520,
+        "image": "https://images.unsplash.com/photo-1595576508898-0ad5c879a061?w=800&q=80"
+      },
+      {
+        "name": "Family Quad Room",
+        "capacity": 4,
+        "bedType": "4 Single Beds",
+        "view": "City View",
+        "rateSAR": 600,
+        "image": "https://images.unsplash.com/photo-1566665797739-1674de7a421a?w=800&q=80"
+      }
+    ],
+    "amenities": [
+      "24/7 Dedicated Haram Shuttle Bus (Every 5 mins)",
+      "Spacious Modern Rooms",
+      "Large Dining Hall",
+      "Luggage Porterage"
+    ],
+    "rates": {
+      "standardSAR": 420,
+      "tripleSAR": 520,
+      "quadSAR": 600,
+      "ramadanSAR": 1400
+    },
+    "status": "Active"
+  },
+  {
+    "id": "HTL-MED-01",
+    "name": "The Oberoi Madinah",
+    "city": "Madinah",
+    "starRating": 5,
+    "courtyardDistanceMeters": 0,
+    "locationDescription": "Directly on Northern Courtyard, Opposite Ladies Gate 25 & Main Gate",
+    "contactPerson": "Khurram Shehzad (Group Sales)",
+    "phone": "+966 14 828 2222",
+    "email": "reservations.med@oberoihotels.com",
+    "contractType": "VIP Master Allotment",
+    "totalContractedRooms": 35,
+    "allocatedRooms": 30,
+    "coverImage": "https://images.unsplash.com/photo-1565552645632-d725f8bfc19a?w=1200&q=80",
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1565552645632-d725f8bfc19a?w=1200&q=80",
+        "category": "Views",
+        "title": "Prophet's Mosque Courtyard & Green Dome View",
+        "description": "Direct view of the sacred Green Dome and courtyard umbrellas right from your window."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=1200&q=80",
+        "category": "Exterior",
+        "title": "The Oberoi Madinah Palatial Facade",
+        "description": "Zero-meter front courtyard hotel facing Gate 25 for effortless prayer access."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=1200&q=80",
+        "category": "Lobby",
+        "title": "Royal Palatial Lobby & Persian Carpets",
+        "description": "World-renowned lobby decorated with hand-crafted carpets, gold leafing, and Arabian dates."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=1200&q=80",
+        "category": "Bedrooms",
+        "title": "Royal Suite (Mosque Front View)",
+        "description": "Opulent suite with private dining area and front-facing views of the Prophet's Mosque."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1590490360182-c33d57733427?w=1200&q=80",
+        "category": "Bedrooms",
+        "title": "Executive Haram Double Room",
+        "description": "Custom teak furnishings, silk cushions, and direct audio link to rawdah prayers."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1595576508898-0ad5c879a061?w=1200&q=80",
+        "category": "Bedrooms",
+        "title": "Deluxe Courtyard Twin Room",
+        "description": "Two plush beds overlooking the tranquil Madinah piazza."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=1200&q=80",
+        "category": "Bathrooms",
+        "title": "Golden Marble Bathroom with Deep Tub",
+        "description": "Finest Italian marble vanity with deep soak tub and luxury brass fixtures."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=1200&q=80",
+        "category": "Facilities",
+        "title": "Al-Ansar Gourmet Restaurant & Butler Lounge",
+        "description": "Exceptional dining offering Continental, South Asian, and Middle Eastern specialities."
+      }
+    ],
+    "roomCategories": [
+      {
+        "name": "Royal Suite (Green Dome View)",
+        "capacity": 2,
+        "bedType": "1 King Bed",
+        "view": "Prophet's Mosque Front",
+        "rateSAR": 2100,
+        "image": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=800&q=80"
+      },
+      {
+        "name": "Executive Haram View Double",
+        "capacity": 2,
+        "bedType": "2 Single / 1 Double",
+        "view": "Northern Courtyard",
+        "rateSAR": 1400,
+        "image": "https://images.unsplash.com/photo-1590490360182-c33d57733427?w=800&q=80"
+      },
+      {
+        "name": "Deluxe Twin Room",
+        "capacity": 2,
+        "bedType": "2 Single Beds",
+        "view": "Courtyard View",
+        "rateSAR": 1100,
+        "image": "https://images.unsplash.com/photo-1595576508898-0ad5c879a061?w=800&q=80"
+      }
+    ],
+    "amenities": [
+      "Zero Distance to Prophet Mosque Courtyard",
+      "Al-Ansar Restaurant",
+      "Private Butler Service",
+      "Executive Business Center"
+    ],
+    "rates": {
+      "standardSAR": 1400,
+      "prophetMosqueViewSAR": 2100,
+      "ramadanSAR": 3900
+    },
+    "status": "Active"
+  },
+  {
+    "id": "HTL-MED-02",
+    "name": "Dar Al Taqwa Hotel Madinah",
+    "city": "Madinah",
+    "starRating": 5,
+    "courtyardDistanceMeters": 0,
+    "locationDescription": "Off King Fahd Gate, North Central Haram Courtyard",
+    "contactPerson": "Hassan Mansoor",
+    "phone": "+966 14 829 1111",
+    "email": "info@daraltaqwahotel.com",
+    "contractType": "Corporate Allotment",
+    "totalContractedRooms": 40,
+    "allocatedRooms": 32,
+    "coverImage": "https://images.unsplash.com/photo-1584551246679-0daf3d275d0f?w=1200&q=80",
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1584551246679-0daf3d275d0f?w=1200&q=80",
+        "category": "Views",
+        "title": "Courtyard Umbrella Canopy View",
+        "description": "Direct view of the magnificent opening and closing umbrellas of the Prophet's Mosque."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=1200&q=80",
+        "category": "Exterior",
+        "title": "Dar Al Taqwa Courtyard Entrance",
+        "description": "Step right out from the hotel lobby directly onto the marble courtyard of the Prophet's Mosque."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=1200&q=80",
+        "category": "Lobby",
+        "title": "Warm Arabian Hospitality Lobby",
+        "description": "Elegant lounge serving complimentary Saudi coffee, organic Madinah dates, and tea."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1590490360182-c33d57733427?w=1200&q=80",
+        "category": "Bedrooms",
+        "title": "Executive Double Room",
+        "description": "Comfortable double room with premium carpets, high-speed internet, and prayer rugs."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?w=1200&q=80",
+        "category": "Bathrooms",
+        "title": "Marble Bathroom with Rain Shower",
+        "description": "Modern walk-in glass shower, plush bathrobes, and slippers."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=1200&q=80",
+        "category": "Facilities",
+        "title": "Al Marwa Tea Garden & Dining",
+        "description": "Relaxed dining environment overlooking the Prophet's Mosque courtyard."
+      }
+    ],
+    "roomCategories": [
+      {
+        "name": "Executive Courtyard View Double",
+        "capacity": 2,
+        "bedType": "1 King Bed",
+        "view": "Courtyard View",
+        "rateSAR": 1650,
+        "image": "https://images.unsplash.com/photo-1590490360182-c33d57733427?w=800&q=80"
+      },
+      {
+        "name": "Standard Twin Room",
+        "capacity": 2,
+        "bedType": "2 Single Beds",
+        "view": "City / North View",
+        "rateSAR": 1100,
+        "image": "https://images.unsplash.com/photo-1595576508898-0ad5c879a061?w=800&q=80"
+      }
+    ],
+    "amenities": [
+      "Courtyard Front Facing",
+      "Al Marwa Tea Lounge",
+      "Al Qaza Tea Garden",
+      "Complimentary Arabic Dates & Coffee"
+    ],
+    "rates": {
+      "standardSAR": 1100,
+      "haramViewSAR": 1650,
+      "ramadanSAR": 3100
+    },
+    "status": "Active"
+  },
+  {
+    "id": "HTL-MED-03",
+    "name": "Frontel Al Harithia Hotel",
+    "city": "Madinah",
+    "starRating": 5,
+    "courtyardDistanceMeters": 150,
+    "locationDescription": "Central Markazia Area, Northern Gate proximity",
+    "contactPerson": "Waleed Al-Otaibi",
+    "phone": "+966 14 820 0111",
+    "email": "frontel.madinah@alharithia.com",
+    "contractType": "Standard Contract",
+    "totalContractedRooms": 60,
+    "allocatedRooms": 51,
+    "coverImage": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=1200&q=80",
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=1200&q=80",
+        "category": "Exterior",
+        "title": "Frontel Al Harithia Markazia Building",
+        "description": "Situated in the central Markazia district, a short 2-minute stroll to Gate 21."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=1200&q=80",
+        "category": "Lobby",
+        "title": "Spacious Central Markazia Reception",
+        "description": "Quick-service check-in with 6 high-speed elevators for seamless prayer times."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?w=1200&q=80",
+        "category": "Bedrooms",
+        "title": "Superior Family Triple Room",
+        "description": "Equipped with 3 full-sized beds, flat-screen TV, mini-fridge, and prayer directional marker."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1566665797739-1674de7a421a?w=1200&q=80",
+        "category": "Bedrooms",
+        "title": "Quad Bedded Family Room",
+        "description": "Spacious accommodation for 4 pilgrims with separate wardrobe space."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1620626011761-996317b8d101?w=1200&q=80",
+        "category": "Bathrooms",
+        "title": "Modern Ensuite Vanity & Shower",
+        "description": "Clean modern bathroom with combined bathtub and shower."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=1200&q=80",
+        "category": "Facilities",
+        "title": "Al-Riyadh Dining Hall & Gym",
+        "description": "Comprehensive breakfast and dinner buffets catering to international pilgrims."
+      }
+    ],
+    "roomCategories": [
+      {
+        "name": "Standard Double Room",
+        "capacity": 2,
+        "bedType": "2 Single Beds",
+        "view": "City View",
+        "rateSAR": 750,
+        "image": "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?w=800&q=80"
+      },
+      {
+        "name": "Family Triple Room",
+        "capacity": 3,
+        "bedType": "3 Single Beds",
+        "view": "Markazia View",
+        "rateSAR": 920,
+        "image": "https://images.unsplash.com/photo-1595576508898-0ad5c879a061?w=800&q=80"
+      },
+      {
+        "name": "Family Quad Room",
+        "capacity": 4,
+        "bedType": "4 Single Beds",
+        "view": "Markazia View",
+        "rateSAR": 1080,
+        "image": "https://images.unsplash.com/photo-1566665797739-1674de7a421a?w=800&q=80"
+      }
+    ],
+    "amenities": [
+      "Short 2-Min Walk to Courtyard",
+      "Fitness Center",
+      "Multiple Elevators for Quick Prayer Access"
+    ],
+    "rates": {
+      "standardSAR": 750,
+      "tripleSAR": 920,
+      "quadSAR": 1080,
+      "ramadanSAR": 2200
+    },
+    "status": "Active"
+  }
+]

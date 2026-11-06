@@ -1,0 +1,170 @@
+[
+  {
+    "id": "VEH-01",
+    "vehicleName": "GMC Yukon XL Denali 2025",
+    "type": "VIP Luxury SUV",
+    "registrationPlate": "4892 KSA",
+    "seatingCapacity": 7,
+    "luggageCapacity": "6 Large Bags",
+    "supplier": "Harmain Executive Fleet KSA",
+    "dailyRateSAR": 1200,
+    "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1200&q=80",
+    "amenities": [
+      "Leather Interior",
+      "Complimentary WiFi",
+      "Chilled Zamzam & Refreshments",
+      "English/Urdu/Arabic Speaking Chauffeur"
+    ],
+    "status": "Assigned",
+    "currentDriver": "Tariq Al-Otaibi"
+  },
+  {
+    "id": "VEH-02",
+    "vehicleName": "Toyota Coaster Luxury 2024",
+    "type": "Executive Minibus",
+    "registrationPlate": "1823 KSA",
+    "seatingCapacity": 28,
+    "luggageCapacity": "25 Bags",
+    "supplier": "Al-Jazeera Transport Co.",
+    "dailyRateSAR": 1600,
+    "image": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?w=1200&q=80",
+    "amenities": [
+      "High-roof A/C",
+      "Microphone System for Tour Guide / Ameer",
+      "Reclining Seats"
+    ],
+    "status": "Available",
+    "currentDriver": "Muhammad Saeed"
+  },
+  {
+    "id": "VEH-03",
+    "vehicleName": "Toyota HiAce Grand Cabin 2024",
+    "type": "Commuter Van",
+    "registrationPlate": "3391 KSA",
+    "seatingCapacity": 13,
+    "luggageCapacity": "10 Bags",
+    "supplier": "Harmain Ground Services",
+    "dailyRateSAR": 950,
+    "image": "https://images.unsplash.com/photo-1559297434-fae8a1916a79?w=1200&q=80",
+    "amenities": [
+      "High Roof AC",
+      "Luggage Carrier",
+      "USB Charging Ports",
+      "Rear Passenger Climate Control"
+    ],
+    "status": "Available",
+    "currentDriver": "Faisal Mehmood"
+  },
+  {
+    "id": "VEH-04",
+    "vehicleName": "Mercedes-Benz VIP Sprinter 2024",
+    "type": "Luxury Van",
+    "registrationPlate": "7721 KSA",
+    "seatingCapacity": 14,
+    "luggageCapacity": "12 Bags",
+    "supplier": "Harmain Executive Fleet KSA",
+    "dailyRateSAR": 1500,
+    "image": "https://images.unsplash.com/photo-1527786356703-4b100091cd2c?w=1200&q=80",
+    "amenities": [
+      "Captains Chairs",
+      "USB Chargers at Each Seat",
+      "Privacy Curtains",
+      "Overhead LED Mood Lighting"
+    ],
+    "status": "Assigned",
+    "currentDriver": "Bilal Ahmed"
+  },
+  {
+    "id": "VEH-05",
+    "vehicleName": "Cadillac Escalade ESV Platinum 2025",
+    "type": "Luxury SUV",
+    "registrationPlate": "6602 KSA",
+    "seatingCapacity": 7,
+    "luggageCapacity": "6 Large Bags",
+    "supplier": "Harmain Executive Fleet KSA",
+    "dailyRateSAR": 1450,
+    "image": "https://images.unsplash.com/photo-1549399542-7e3f8b79c341?w=1200&q=80",
+    "amenities": [
+      "AKG Studio Audio",
+      "Semi-Aniline Leather",
+      "Rear Seat Screens",
+      "Chilled Zamzam Bottle Service"
+    ],
+    "status": "Available",
+    "currentDriver": "Zubair Al-Ghamdi"
+  },
+  {
+    "id": "VEH-06",
+    "vehicleName": "Mercedes-Benz S-Class S580 2025",
+    "type": "VIP Executive Sedan",
+    "registrationPlate": "1111 KSA",
+    "seatingCapacity": 4,
+    "luggageCapacity": "3 Bags",
+    "supplier": "Harmain Royal Protocol Fleet",
+    "dailyRateSAR": 2200,
+    "image": "https://images.unsplash.com/photo-1563720223185-11003d516935?w=1200&q=80",
+    "amenities": [
+      "Executive Rear Reclining Seats",
+      "Massage Function",
+      "Burmester 4D Sound",
+      "Airport VIP Apron Meet & Assist"
+    ],
+    "status": "Available",
+    "currentDriver": "Sultan Al-Harbi"
+  },
+  {
+    "id": "VEH-07",
+    "vehicleName": "Toyota Camry Hybrid Executive 2024",
+    "type": "Executive Sedan",
+    "registrationPlate": "5428 KSA",
+    "seatingCapacity": 4,
+    "luggageCapacity": "3 Bags",
+    "supplier": "Al-Haramain Express Cabs",
+    "dailyRateSAR": 550,
+    "image": "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=1200&q=80",
+    "amenities": [
+      "Smooth Hybrid Quiet Ride",
+      "Dual Air Conditioning",
+      "Clean Executive Interior"
+    ],
+    "status": "Available",
+    "currentDriver": "Kareemullah Khan"
+  },
+  {
+    "id": "VEH-08",
+    "vehicleName": "SAPTCO VIP Luxury Coach 2025",
+    "type": "Luxury 50-Seater Coach",
+    "registrationPlate": "9941 KSA",
+    "seatingCapacity": 49,
+    "luggageCapacity": "60 Large Bags",
+    "supplier": "SAPTCO Official Fleet",
+    "dailyRateSAR": 2800,
+    "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=1200&q=80",
+    "amenities": [
+      "Onboard Restroom",
+      "Dual Zone Climate Control",
+      "Overhead Luggage Compartments",
+      "PA System & Prayer Announcements"
+    ],
+    "status": "Available",
+    "currentDriver": "Abdullah Al-Harbi"
+  },
+  {
+    "id": "VEH-09",
+    "vehicleName": "Hyundai Staria VIP Lounge 2024",
+    "type": "Executive Van",
+    "registrationPlate": "8120 KSA",
+    "seatingCapacity": 7,
+    "luggageCapacity": "5 Bags",
+    "supplier": "Harmain Ground Services",
+    "dailyRateSAR": 1100,
+    "image": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738?w=1200&q=80",
+    "amenities": [
+      "Relaxation Captain Seats",
+      "Panoramic Windows",
+      "Smart Power Sliding Doors"
+    ],
+    "status": "Available",
+    "currentDriver": "Imran Qureshi"
+  }
+]

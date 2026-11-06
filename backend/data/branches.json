@@ -1,0 +1,67 @@
+[
+  {
+    "id": "BR-01",
+    "code": "ISB-HQ",
+    "name": "Islamabad Head Office",
+    "city": "Islamabad",
+    "country": "Pakistan",
+    "address": "Suite 401-404, Harmain Tower, Jinnah Avenue, Blue Area",
+    "phone": "+92 51 8849200",
+    "manager": "Muhammad Usman Tariq",
+    "isHeadOffice": true,
+    "staffCount": 18,
+    "status": "Active"
+  },
+  {
+    "id": "BR-02",
+    "code": "KHI-01",
+    "name": "Karachi Executive Branch",
+    "city": "Karachi",
+    "country": "Pakistan",
+    "address": "Executive Tower, Clifton Block 9",
+    "phone": "+92 21 3584910",
+    "manager": "Syed Farhan Ali",
+    "isHeadOffice": false,
+    "staffCount": 9,
+    "status": "Active"
+  },
+  {
+    "id": "BR-03",
+    "code": "LHE-01",
+    "name": "Lahore Mall Branch",
+    "city": "Lahore",
+    "country": "Pakistan",
+    "address": "Main Boulevard, Gulberg III",
+    "phone": "+92 42 3578901",
+    "manager": "Kamran Siddiqui",
+    "isHeadOffice": false,
+    "staffCount": 8,
+    "status": "Active"
+  },
+  {
+    "id": "BR-04",
+    "code": "MAK-01",
+    "name": "Makkah Al-Mukarramah Operations",
+    "city": "Makkah",
+    "country": "Saudi Arabia",
+    "address": "Al-Siteen Street, Near Al-Shohada",
+    "phone": "+966 12 5421098",
+    "manager": "Sheikh Tariq Al-Mansoor",
+    "isHeadOffice": false,
+    "staffCount": 14,
+    "status": "Active"
+  },
+  {
+    "id": "BR-05",
+    "code": "MED-01",
+    "name": "Madinah Al-Munawwarah Operations",
+    "city": "Madinah",
+    "country": "Saudi Arabia",
+    "address": "Northern Central Area, Near Gate 25",
+    "phone": "+966 14 8210987",
+    "manager": "Hamza Abdul Rahman",
+    "isHeadOffice": false,
+    "staffCount": 10,
+    "status": "Active"
+  }
+]

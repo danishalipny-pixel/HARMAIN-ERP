@@ -1,0 +1,74 @@
+[
+  {
+    "id": "STF-01",
+    "name": "Dr. Tariq Al-Harmain",
+    "designation": "Managing Director & CEO",
+    "department": "Executive Management",
+    "branch": "Islamabad Head Office",
+    "email": "admin@harmain.com",
+    "phone": "+92 300 8501234",
+    "salaryPKR": 450000,
+    "joiningDate": "2020-01-01",
+    "status": "Active"
+  },
+  {
+    "id": "STF-02",
+    "name": "Muhammad Usman Tariq",
+    "designation": "General Manager - Operations",
+    "department": "Operations",
+    "branch": "Islamabad Head Office",
+    "email": "manager@harmain.com",
+    "phone": "+92 300 8505678",
+    "salaryPKR": 220000,
+    "joiningDate": "2021-03-15",
+    "status": "Active"
+  },
+  {
+    "id": "STF-03",
+    "name": "Ayesha Siddiqua",
+    "designation": "Senior Travel Consultant",
+    "department": "Sales & Client Relations",
+    "branch": "Islamabad Head Office",
+    "email": "consultant@harmain.com",
+    "phone": "+92 321 4455667",
+    "salaryPKR": 130000,
+    "joiningDate": "2022-06-01",
+    "status": "Active"
+  },
+  {
+    "id": "STF-04",
+    "name": "Zubair Ahmed Qureshi",
+    "designation": "Head of Visa & Embassy Affairs",
+    "department": "Visa Department",
+    "branch": "Islamabad Head Office",
+    "email": "visa@harmain.com",
+    "phone": "+92 333 9988776",
+    "salaryPKR": 140000,
+    "joiningDate": "2021-09-01",
+    "status": "Active"
+  },
+  {
+    "id": "STF-05",
+    "name": "Rashid Mehmood, ACMA",
+    "designation": "Chief Financial Officer / Head of Accounts",
+    "department": "Finance & Accounts",
+    "branch": "Islamabad Head Office",
+    "email": "finance@harmain.com",
+    "phone": "+92 345 5566778",
+    "salaryPKR": 190000,
+    "joiningDate": "2021-05-10",
+    "status": "Active"
+  },
+  {
+    "id": "STF-06",
+    "name": "Syed Farhan Ali",
+    "designation": "Karachi Regional Manager",
+    "department": "Branch Operations",
+    "branch": "Karachi Executive Branch",
+    "email": "farhan.ali@harmain.com",
+    "phone": "+92 21 3584910",
+    "salaryPKR": 180000,
+    "joiningDate": "2022-01-15",
+    "status": "Active"
+  }
+]

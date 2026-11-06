@@ -1,0 +1,60 @@
+[
+  {
+    "id": "id_6rbusmv2a",
+    "action": "LOGIN_SUCCESS",
+    "module": "AUTH",
+    "performedBy": "admin@harmain.com (Dr. Tariq Al-Harmain)",
+    "ipAddress": "::1",
+    "details": "User logged in with role: Super Admin",
+    "timestamp": "2026-11-06T15:13:53.727Z",
+    "createdAt": "2026-11-06T15:13:53.727Z",
+    "updatedAt": "2026-11-06T15:13:53.727Z"
+  },
+  {
+    "id": "id_nfj7fwnmb",
+    "action": "LOGIN_SUCCESS",
+    "module": "AUTH",
+    "performedBy": "admin@harmain.com (Dr. Tariq Al-Harmain)",
+    "ipAddress": "::1",
+    "details": "User logged in with role: Super Admin",
+    "timestamp": "2026-11-06T15:12:14.564Z",
+    "createdAt": "2026-11-06T15:12:14.564Z",
+    "updatedAt": "2026-11-06T15:12:14.564Z"
+  },
+  {
+    "id": "LOG-001",
+    "action": "LOGIN_SUCCESS",
+    "module": "AUTH",
+    "performedBy": "admin@harmain.com (Dr. Tariq Al-Harmain)",
+    "ipAddress": "192.168.1.10",
+    "details": "Super Admin logged into HARMAIN ERP system dashboard",
+    "timestamp": "2026-11-06T14:54:59.945Z"
+  },
+  {
+    "id": "LOG-002",
+    "action": "BOOKING_CREATED",
+    "module": "BOOKINGS",
+    "performedBy": "consultant@harmain.com (Ayesha Siddiqua)",
+    "ipAddress": "192.168.1.14",
+    "details": "Created Booking BK-2026-0001 for Haji Abdul Qayyum (2 Pax, Package: PKG-UMR-01, Amount: 2,300,000 PKR)",
+    "timestamp": "2026-10-22T14:54:59.945Z"
+  },
+  {
+    "id": "LOG-003",
+    "action": "PAYMENT_RECORDED",
+    "module": "ACCOUNTS",
+    "performedBy": "finance@harmain.com (Rashid Mehmood)",
+    "ipAddress": "192.168.1.22",
+    "details": "Recorded Payment Receipt RCT-2026-0002 for 1,300,000 PKR (Booking BK-2026-0001) - Full settlement",
+    "timestamp": "2026-11-01T14:54:59.945Z"
+  },
+  {
+    "id": "LOG-004",
+    "action": "VISA_STATUS_UPDATED",
+    "module": "VISAS",
+    "performedBy": "visa@harmain.com (Zubair Ahmed Qureshi)",
+    "ipAddress": "192.168.1.18",
+    "details": "Updated Visa status to \"Delivered\" for Pilgrim Haji Abdul Qayyum (Visa # KSA-9941829401)",
+    "timestamp": "2026-10-28T14:54:59.945Z"
+  }
+]

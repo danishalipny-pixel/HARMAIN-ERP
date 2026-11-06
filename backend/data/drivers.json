@@ -1,0 +1,74 @@
+[
+  {
+    "id": "DRV-01",
+    "fullName": "Tariq Al-Otaibi",
+    "nationality": "Saudi Arabian",
+    "iqamaNumber": "1098234190",
+    "licenseNumber": "KSA-DL-492019",
+    "mobileNumber": "+966 54 819 0281",
+    "whatsapp": "+966 54 819 0281",
+    "languages": [
+      "Arabic",
+      "Urdu",
+      "English"
+    ],
+    "assignedVehicleId": "VEH-01",
+    "assignedVehicleName": "GMC Yukon XL Denali 2025",
+    "rating": 4.9,
+    "status": "Active"
+  },
+  {
+    "id": "DRV-02",
+    "fullName": "Muhammad Saeed",
+    "nationality": "Pakistani (Saudi Resident)",
+    "iqamaNumber": "2489102938",
+    "licenseNumber": "KSA-DL-881920",
+    "mobileNumber": "+966 50 771 9023",
+    "whatsapp": "+966 50 771 9023",
+    "languages": [
+      "Urdu",
+      "Arabic",
+      "Punjabi"
+    ],
+    "assignedVehicleId": "VEH-02",
+    "assignedVehicleName": "Toyota Coaster Luxury 2024",
+    "rating": 4.8,
+    "status": "Active"
+  },
+  {
+    "id": "DRV-03",
+    "fullName": "Bilal Ahmed",
+    "nationality": "Pakistani",
+    "iqamaNumber": "2390184719",
+    "licenseNumber": "KSA-DL-771928",
+    "mobileNumber": "+966 55 443 2190",
+    "whatsapp": "+966 55 443 2190",
+    "languages": [
+      "Urdu",
+      "English",
+      "Pashto",
+      "Arabic"
+    ],
+    "assignedVehicleId": "VEH-03",
+    "assignedVehicleName": "Mercedes-Benz VIP Sprinter 2024",
+    "rating": 4.9,
+    "status": "Active"
+  },
+  {
+    "id": "DRV-04",
+    "fullName": "Abdullah Al-Harbi",
+    "nationality": "Saudi Arabian",
+    "iqamaNumber": "1029481920",
+    "licenseNumber": "KSA-DL-119284",
+    "mobileNumber": "+966 56 129 0481",
+    "whatsapp": "+966 56 129 0481",
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "assignedVehicleId": "VEH-04",
+    "assignedVehicleName": "SAPTCO VIP Coach 2025",
+    "rating": 4.7,
+    "status": "Active"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "NOTIF-01",
+    "title": "Upcoming Flight Departure in 48 Hours",
+    "message": "Group GRP-UMR-NOV-01 departing on Saudia SV-739 (ISB-JED) on 2026-11-12 at 04:30 AM. Total 32 passengers.",
+    "priority": "Urgent",
+    "type": "Flight Departure",
+    "link": "/groups",
+    "timestamp": "2026-11-06T14:54:59.945Z",
+    "read": false
+  },
+  {
+    "id": "NOTIF-02",
+    "title": "Outstanding Payment Balance Reminder",
+    "message": "Booking BK-2026-0002 (Chaudhry Muhammad Aslam) has an outstanding balance of 585,000 PKR due before departure.",
+    "priority": "Warning",
+    "type": "Accounts",
+    "link": "/payments",
+    "timestamp": "2026-11-06T10:54:59.945Z",
+    "read": false
+  },
+  {
+    "id": "NOTIF-03",
+    "title": "Saudi Umrah E-Visa Approved",
+    "message": "MOFA has issued Umrah E-Visa for Haji Abdul Qayyum & Begum Parveen Akhtar (Visa # KSA-9941829401/02).",
+    "priority": "Info",
+    "type": "Visa Issuance",
+    "link": "/visas",
+    "timestamp": "2026-11-06T02:54:59.945Z",
+    "read": true
+  },
+  {
+    "id": "NOTIF-04",
+    "title": "Makkah Hotel Room Block Utilization Alert",
+    "message": "Fairmont Makkah Clock Royal Tower block utilization is at 84% (38 of 45 contracted rooms booked).",
+    "priority": "Info",
+    "type": "Inventory",
+    "link": "/rooms",
+    "timestamp": "2026-11-05T14:54:59.945Z",
+    "read": true
+  }
+]

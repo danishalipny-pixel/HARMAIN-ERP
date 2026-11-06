@@ -1,0 +1,80 @@
+[
+  {
+    "id": "ZIY-MAK-01",
+    "city": "Makkah Al-Mukarramah",
+    "title": "Grand Makkah Holy Heritage Tour",
+    "scheduleDate": "2026-11-15",
+    "departureTime": "06:30 AM (Post Fajr)",
+    "meetingPoint": "Clock Tower Ground Floor Group Entrance",
+    "guideName": "Maulana Qari Zubair (Licensed Islamic Scholar)",
+    "guideContact": "+966 55 991 0293",
+    "assignedVehicle": "Toyota Coaster Luxury 2024 (Plate: 1823 KSA)",
+    "driverName": "Muhammad Saeed",
+    "destinations": [
+      {
+        "name": "Jabal al-Nour & Cave of Hira",
+        "description": "Site of the first revelation of the Holy Quran"
+      },
+      {
+        "name": "Jabal Thawr & Cave of Thawr",
+        "description": "Sanctuary of Prophet Muhammad (PBUH) & Abu Bakr (RA) during Hijrah"
+      },
+      {
+        "name": "Mina Valley & Jamarat Pillars",
+        "description": "The city of tents and stoning ritual sites"
+      },
+      {
+        "name": "Muzdalifah Plains",
+        "description": "Sacred overnight stay location during Hajj"
+      },
+      {
+        "name": "Jabal al-Rahmah & Plain of Arafat",
+        "description": "Mount of Mercy and site of the Farewell Sermon"
+      },
+      {
+        "name": "Masjid Nimrah & Masjid al-Jinn",
+        "description": "Historical landmark mosques in Makkah"
+      }
+    ],
+    "durationHours": 4.5,
+    "refreshmentsProvided": "Bottled Zamzam, Fresh Juices & Dates",
+    "status": "Scheduled"
+  },
+  {
+    "id": "ZIY-MED-01",
+    "city": "Madinah Al-Munawwarah",
+    "title": "Historical Madinah Holy Landmarks Tour",
+    "scheduleDate": "2026-11-23",
+    "departureTime": "07:00 AM (Post Ishraq)",
+    "meetingPoint": "Oberoi Madinah Northern Entrance",
+    "guideName": "Allama Hamza Abdul Rahman",
+    "guideContact": "+966 14 8210987",
+    "assignedVehicle": "Toyota Coaster Luxury 2024 (Plate: 1823 KSA)",
+    "driverName": "Muhammad Saeed",
+    "destinations": [
+      {
+        "name": "Masjid Quba",
+        "description": "The first mosque in Islam; 2 rakats equal to reward of Umrah"
+      },
+      {
+        "name": "Mount Uhud & Shuhada Cemetery",
+        "description": "Resting place of Sayyidna Hamza (RA) and the Uhud Martyrs"
+      },
+      {
+        "name": "Masjid al-Qiblatayn",
+        "description": "Mosque of the Two Qiblas where direction of prayer was shifted"
+      },
+      {
+        "name": "Seven Mosques (Saba Masajid / Battle of Trench)",
+        "description": "Historical battle positions at Khandaq"
+      },
+      {
+        "name": "Madinah Date Palm Farms & Market",
+        "description": "Authentic Ajwa, Amber & Safawi dates tasting & purchase"
+      }
+    ],
+    "durationHours": 4,
+    "refreshmentsProvided": "Fresh Madinah Mint Tea, Water & Ajwa Dates",
+    "status": "Scheduled"
+  }
+]

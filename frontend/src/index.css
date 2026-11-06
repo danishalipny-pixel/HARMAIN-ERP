@@ -1,0 +1,76 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --primary-emerald: #0A4D3C;
+    --primary-emerald-dark: #063A2D;
+    --primary-emerald-light: #0E624E;
+    --luxury-gold: #D4AF37;
+    --luxury-gold-dark: #B38F24;
+    --luxury-gold-light: #F3E5AB;
+    --pure-white: #FFFFFF;
+    --soft-offwhite: #F8F9FA;
+    --dark-charcoal: #111827;
+  }
+
+  body {
+    background-color: #F8F9FA;
+    color: #111827;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    -webkit-font-smoothing: antialiased;
+  }
+}
+
+/* Custom scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #F1F5F9;
+}
+::-webkit-scrollbar-thumb {
+  background: #CBD5E1;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #94A3B8;
+}
+
+/* Islamic Geometric Border & Gold Accents */
+.gold-gradient {
+  background: linear-gradient(135deg, #D4AF37 0%, #F5DE7A 50%, #B38F24 100%);
+}
+.gold-text-gradient {
+  background: linear-gradient(135deg, #D4AF37 0%, #E6C86E 50%, #B38F24 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.emerald-gradient {
+  background: linear-gradient(135deg, #0A4D3C 0%, #0E624E 50%, #063A2D 100%);
+}
+.emerald-card-glow {
+  box-shadow: 0 10px 25px -5px rgba(10, 77, 60, 0.1), 0 8px 10px -6px rgba(10, 77, 60, 0.1);
+}
+
+/* Print Styles for Vouchers, Invoices, Pilgrim Identity Cards, Itineraries */
+@media print {
+  body {
+    background: #fff !important;
+    color: #000 !important;
+  }
+  .no-print {
+    display: none !important;
+  }
+  .print-only {
+    display: block !important;
+  }
+  .print-container {
+    padding: 0 !important;
+    margin: 0 !important;
+    box-shadow: none !important;
+    border: none !important;
+  }
+}

@@ -1,0 +1,79 @@
+[
+  {
+    "id": "PNR-01",
+    "pnrCode": "SV79KX",
+    "airline": "Saudia (SV)",
+    "flightNumbers": [
+      "SV-739",
+      "SV-738"
+    ],
+    "bookingRef": "HRM-BK-2026-0001",
+    "passengerCount": 2,
+    "passengers": [
+      "Abdul Qayyum",
+      "Parveen Akhtar"
+    ],
+    "issueDate": "2026-11-01",
+    "ticketNumbers": [
+      "065-2490182910",
+      "065-2490182911"
+    ],
+    "supplier": "Saudia Direct Consolidator",
+    "purchasePricePKR": 396000,
+    "sellingPricePKR": 490000,
+    "marginPKR": 94000,
+    "status": "Ticketed & Confirmed"
+  },
+  {
+    "id": "PNR-02",
+    "pnrCode": "PK882J",
+    "airline": "PIA (PK)",
+    "flightNumbers": [
+      "PK-741",
+      "PK-742"
+    ],
+    "bookingRef": "HRM-BK-2026-0002",
+    "passengerCount": 3,
+    "passengers": [
+      "Muhammad Aslam",
+      "Kaneez Fatima",
+      "Hamza Aslam"
+    ],
+    "issueDate": "2026-11-03",
+    "ticketNumbers": [
+      "214-9912048121",
+      "214-9912048122",
+      "214-9912048123"
+    ],
+    "supplier": "Travelport GDS Pakistan",
+    "purchasePricePKR": 555000,
+    "sellingPricePKR": 690000,
+    "marginPKR": 135000,
+    "status": "Ticketed & Confirmed"
+  },
+  {
+    "id": "PNR-03",
+    "pnrCode": "XY449T",
+    "airline": "Flynas (XY)",
+    "flightNumbers": [
+      "XY-318",
+      "XY-319"
+    ],
+    "bookingRef": "HRM-BK-2026-0003",
+    "passengerCount": 2,
+    "passengers": [
+      "Tariq Javed",
+      "Bilal Javed"
+    ],
+    "issueDate": "2026-11-04",
+    "ticketNumbers": [
+      "429-1002948190",
+      "429-1002948191"
+    ],
+    "supplier": "Flynas KSA Direct Agent",
+    "purchasePricePKR": 344000,
+    "sellingPricePKR": 430000,
+    "marginPKR": 86000,
+    "status": "Ticketed & Confirmed"
+  }
+]
